@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Kiray" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#E3D1E6</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">500</item>
+    </style>
+
+</resources>

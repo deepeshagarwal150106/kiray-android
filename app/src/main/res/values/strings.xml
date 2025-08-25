@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kiray</string>
+    <string name="no_internet_message">Please check your network connection</string>
+</resources>
